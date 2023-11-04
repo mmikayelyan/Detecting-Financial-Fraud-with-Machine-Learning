@@ -31,7 +31,6 @@ The primary goals of this project are as follows:
 - **Performance Metrics for Fraud Detection**
   - Interpreted confusion matrices for model evaluation.
   - Evaluated the cost of misclassification.
-  - Navigated the accuracy paradox and implemented metrics in scikit-learn.
 
 - **Optimal Model Selection**
   - Fine-tuned thresholds using performance metrics.
