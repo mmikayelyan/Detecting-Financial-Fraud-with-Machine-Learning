@@ -35,9 +35,7 @@ The primary goals of this project are as follows:
 
 - **Optimal Model Selection**
   - Fine-tuned thresholds using performance metrics.
-  - Optimized thresholds based on the cost of fraud.
-  - Utilized Streamlit for interactive visualization.
-  - Built a threshold simulator for visual inspection.
+  - Optimized thresholds based on the AUPRC.
 
 - **Strategies for Model Performance Improvement**
   - Explored sampling techniques to address imbalanced data.
@@ -52,7 +50,6 @@ The project leverages the following Python libraries and tools:
 - scikit-learn
 - seaborn
 - XGBoost
-- Streamlit
 - imblearn
 
 ## Prerequisites
